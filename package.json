@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alibaihaqi/rust-doc.git"
+    "url": "git+https://github.com/alibaihaqi/rust-docs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alibaihaqi/rust-doc/issues"
+    "url": "https://github.com/alibaihaqi/rust-docs/issues"
   },
-  "homepage": "https://github.com/alibaihaqi/rust-doc#readme",
+  "homepage": "https://github.com/alibaihaqi/rust-docs#readme",
   "devDependencies": {
     "vitepress": "1.6.4"
   }

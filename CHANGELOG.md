@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- GitHub repo renamed `rust-doc` → `rust-docs` (was the only learning-docs platform not matching the `<platform>-docs` naming convention). `.vitepress/config.mts` base path and `package.json` repo/bugs/homepage URLs updated to match.
+- Footer copyright bumped to `2026 - Present`.
+
 ### Added
 - Initial repository setup with VitePress 1.6.4
 - Node 26.4.0 configured

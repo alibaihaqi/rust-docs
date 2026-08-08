@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/rust-doc/',
+  base: '/rust-docs/',
   cleanUrls: true,
   lang: 'en-US',
   lastUpdated: true,
@@ -38,7 +38,7 @@ export default defineConfig({
     },
 
     footer: {
-      copyright: 'Copyright © 2023 - Present by Fadli Al Baihaqi'
+      copyright: 'Copyright © 2026 - Present by Fadli Al Baihaqi'
     },
 
     sidebar: [
